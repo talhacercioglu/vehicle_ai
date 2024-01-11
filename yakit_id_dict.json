@@ -1,0 +1,18 @@
+{
+  "2016": 0,
+  "2017": 1,
+  "2019": 2,
+  "2020": 3,
+  "benzin": 4,
+  "benzin/lpg": 5,
+  "benzin_hibrit": 6,
+  "benzin_lpg": 7,
+  "dizel": 8,
+  "elektrik": 9,
+  "hibrit": 10,
+  "hibrit ": 11,
+  "hibrit (dizel/elektrik)": 12,
+  "hybrit": 13,
+  "lpg": 14,
+  "lpg (fabrika \u00e7\u0131k\u0131\u015fl\u0131)": 15
+}
